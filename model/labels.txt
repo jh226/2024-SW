@@ -1,0 +1,5 @@
+0 keyboard
+1 mouse
+2 monitor
+3 chair
+4 cup
