@@ -25,3 +25,4 @@
 ### 아두이노(대장장이보드)를 활용한 2인용 게임
 - 메모리 게임 : https://github.com/jh226/2024-SW/blob/main/Arduino_Project/2players_game.ino
   - 설명 : https://docs.google.com/presentation/d/14vyKTsfLKzkLeoSPsoLxMDgt3NgJqgv9Jnkw-1P2VrA/edit?pli=1#slide=id.p1
+- 휴머노이드 로봇-아두이노 제어 : 
