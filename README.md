@@ -11,3 +11,4 @@
 - 주차공간탐지 : https://github.com/jh226/2024-SW-AI/blob/main/%EC%A3%BC%EC%B0%A8%EC%9E%90%EB%A6%AC%ED%83%90%EC%A7%80%EB%AA%A8%EB%8D%B8.ipynb
 - 산불탐지 : https://github.com/jh226/2024-SW-AI/blob/main/%EC%82%B0%EB%B6%88%EB%B0%A9%EC%A7%80%EB%AA%A8%EB%8D%B8.ipynb
 - 포트홀 : https://github.com/jh226/2024-SW-AI/blob/main/potHole%ED%83%90%EC%A7%80%EB%AA%A8%EB%8D%B8.ipynb
+- 드론제어탐지 : https://github.com/jh226/2024-SW-AI/blob/main/%EB%93%9C%EB%A1%A0%EC%A0%9C%EC%96%B4%ED%83%90%EC%A7%80%EB%AA%A8%EB%8D%B8.ipynb
