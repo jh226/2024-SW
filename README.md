@@ -4,6 +4,7 @@
 ## AI 프로젝트 📑
 ### Python + Pyqt
 - 주소록 관리 프로그램 : https://github.com/jh226/AddressBook-Program
+- 웹캠을 통한 사물 인식 : https://github.com/jh226/OpenCv_Tensorflow
 ### AI Models :
 - 객체탐지의 모든 것 이론 수업과 YOLO이용하기 : https://github.com/jh226/2024-SW-AI/blob/main/Object_Detection_YOLO.ipynb
 - 안전모탐지 : https://github.com/jh226/2024-SW-AI/blob/main/%EC%95%88%EC%A0%84%EB%AA%A8%ED%83%90%EC%A7%80%EB%AA%A8%EB%8D%B8.ipynb
