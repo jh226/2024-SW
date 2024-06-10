@@ -14,4 +14,7 @@
 - 드론제어 : https://github.com/jh226/2024-SW-AI/blob/main/%EB%93%9C%EB%A1%A0%EC%A0%9C%EC%96%B4%ED%83%90%EC%A7%80%EB%AA%A8%EB%8D%B8.ipynb
 
 ## Java, 아두이노 자료 📑
- - 임성국 교수님 :  https://eventia.github.io/wsuit/
+- 임성국 교수님 :  https://eventia.github.io/wsuit/
+### 아두이노(대장장이보드)를 활용한 2인용 게임
+- 메모리 게임 : https://github.com/jh226/2024-SW/blob/main/2players_game.ino
+  - 설명 : https://docs.google.com/presentation/d/14vyKTsfLKzkLeoSPsoLxMDgt3NgJqgv9Jnkw-1P2VrA/edit?pli=1#slide=id.p1
